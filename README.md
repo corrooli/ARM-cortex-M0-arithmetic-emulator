@@ -1,2 +1,3 @@
-# ARM-cortex-M0-arithmetic-emulator
-ARM cortex M0 arithmetic emulator
+# CT-calculator
+
+https://github.zhaw.ch/pages/corrooli/CT-calculator/
